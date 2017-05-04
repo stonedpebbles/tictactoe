@@ -1,3 +1,16 @@
+Steps:
+Make sure you have a recent version of Node.js installed.
+Follow the installation instructions to create a new project.
+
+npm install -g create-react-app
+create-react-app demo
+
+cd demo
+
+npm start
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
